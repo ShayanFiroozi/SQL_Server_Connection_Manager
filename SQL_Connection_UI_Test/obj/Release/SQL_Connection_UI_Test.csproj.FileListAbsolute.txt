@@ -1,0 +1,11 @@
+G:\Shared_On_GitHub\SQL_Connection\SQL_Connection_UI_Test\bin\Release\SQL_Connection_UI_Test.exe
+G:\Shared_On_GitHub\SQL_Connection\SQL_Connection_UI_Test\bin\Release\SQL_Connection_UI_Test.pdb
+G:\Shared_On_GitHub\SQL_Connection\SQL_Connection_UI_Test\bin\Release\Singonet.ir.UI.SQL_Connection.dll
+G:\Shared_On_GitHub\SQL_Connection\SQL_Connection_UI_Test\bin\Release\Singonet.ir.UI.SQL_Connection.pdb
+G:\Shared_On_GitHub\SQL_Connection\SQL_Connection_UI_Test\obj\Release\SQL_Connection_UI_Test.csprojAssemblyReference.cache
+G:\Shared_On_GitHub\SQL_Connection\SQL_Connection_UI_Test\obj\Release\SQL_Connection_UI_Test.Properties.Resources.resources
+G:\Shared_On_GitHub\SQL_Connection\SQL_Connection_UI_Test\obj\Release\SQL_Connection_UI_Test.csproj.GenerateResource.cache
+G:\Shared_On_GitHub\SQL_Connection\SQL_Connection_UI_Test\obj\Release\SQL_Connection_UI_Test.csproj.CoreCompileInputs.cache
+G:\Shared_On_GitHub\SQL_Connection\SQL_Connection_UI_Test\obj\Release\SQL_Connection_UI_Test.csproj.CopyComplete
+G:\Shared_On_GitHub\SQL_Connection\SQL_Connection_UI_Test\obj\Release\SQL_Connection_UI_Test.exe
+G:\Shared_On_GitHub\SQL_Connection\SQL_Connection_UI_Test\obj\Release\SQL_Connection_UI_Test.pdb

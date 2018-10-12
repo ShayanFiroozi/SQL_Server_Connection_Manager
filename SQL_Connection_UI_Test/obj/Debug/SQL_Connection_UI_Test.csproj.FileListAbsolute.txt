@@ -1,0 +1,11 @@
+G:\Singonet.ir\_Singonet.ir_\Programming\C#\C# Libraries\_Source_Codes\Libraries Test\SQL_Connection_UI_Test\bin\Debug\SQL_Connection_UI_Test.exe
+G:\Singonet.ir\_Singonet.ir_\Programming\C#\C# Libraries\_Source_Codes\Libraries Test\SQL_Connection_UI_Test\bin\Debug\SQL_Connection_UI_Test.pdb
+G:\Singonet.ir\_Singonet.ir_\Programming\C#\C# Libraries\_Source_Codes\Libraries Test\SQL_Connection_UI_Test\obj\Debug\SQL_Connection_UI_Test.Properties.Resources.resources
+G:\Singonet.ir\_Singonet.ir_\Programming\C#\C# Libraries\_Source_Codes\Libraries Test\SQL_Connection_UI_Test\obj\Debug\SQL_Connection_UI_Test.csproj.GenerateResource.cache
+G:\Singonet.ir\_Singonet.ir_\Programming\C#\C# Libraries\_Source_Codes\Libraries Test\SQL_Connection_UI_Test\obj\Debug\SQL_Connection_UI_Test.csproj.CoreCompileInputs.cache
+G:\Singonet.ir\_Singonet.ir_\Programming\C#\C# Libraries\_Source_Codes\Libraries Test\SQL_Connection_UI_Test\obj\Debug\SQL_Connection_UI_Test.exe
+G:\Singonet.ir\_Singonet.ir_\Programming\C#\C# Libraries\_Source_Codes\Libraries Test\SQL_Connection_UI_Test\obj\Debug\SQL_Connection_UI_Test.pdb
+G:\Singonet.ir\_Singonet.ir_\Programming\C#\C# Libraries\_Source_Codes\Libraries Test\SQL_Connection_UI_Test\bin\Debug\Singonet.ir.UI.SQL_Connection.dll
+G:\Singonet.ir\_Singonet.ir_\Programming\C#\C# Libraries\_Source_Codes\Libraries Test\SQL_Connection_UI_Test\bin\Debug\Singonet.ir.UI.SQL_Connection.pdb
+G:\Singonet.ir\_Singonet.ir_\Programming\C#\C# Libraries\_Source_Codes\Libraries Test\SQL_Connection_UI_Test\obj\Debug\SQL_Connection_UI_Test.csprojAssemblyReference.cache
+G:\SingoNet.ir\_Singonet.ir_\Programming\C#\C# Libraries\_Source_Codes\Libraries Test\SQL_Connection_UI_Test\obj\Debug\SQL_Connection_UI_Test.csproj.CopyComplete

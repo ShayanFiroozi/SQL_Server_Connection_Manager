@@ -1,0 +1,9 @@
+G:\Shared_On_GitHub\SQL_Connection\Singonet.ir.UI.SQL_Connection\bin\x86\Release\Singonet.ir.UI.SQL_Connection.dll
+G:\Shared_On_GitHub\SQL_Connection\Singonet.ir.UI.SQL_Connection\bin\x86\Release\Singonet.ir.UI.SQL_Connection.pdb
+G:\Shared_On_GitHub\SQL_Connection\Singonet.ir.UI.SQL_Connection\obj\x86\Release\Singonet.ir.UI.SQL_Connection.frm_theme_default.resources
+G:\Shared_On_GitHub\SQL_Connection\Singonet.ir.UI.SQL_Connection\obj\x86\Release\Singonet.ir.UI.SQL_Connection.Properties.Resources.resources
+G:\Shared_On_GitHub\SQL_Connection\Singonet.ir.UI.SQL_Connection\obj\x86\Release\Singonet.ir.UI.SQL_Connection.SQL_Conn.resources
+G:\Shared_On_GitHub\SQL_Connection\Singonet.ir.UI.SQL_Connection\obj\x86\Release\Singonet.ir.UI.SQL_Connection.csproj.GenerateResource.cache
+G:\Shared_On_GitHub\SQL_Connection\Singonet.ir.UI.SQL_Connection\obj\x86\Release\Singonet.ir.UI.SQL_Connection.csproj.CoreCompileInputs.cache
+G:\Shared_On_GitHub\SQL_Connection\Singonet.ir.UI.SQL_Connection\obj\x86\Release\Singonet.ir.UI.SQL_Connection.dll
+G:\Shared_On_GitHub\SQL_Connection\Singonet.ir.UI.SQL_Connection\obj\x86\Release\Singonet.ir.UI.SQL_Connection.pdb
